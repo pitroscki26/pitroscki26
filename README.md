@@ -1,16 +1,13 @@
-## Hi there 👋
+![](https://media1.tenor.com/m/IXTbkdWQFsgAAAAC/powerpuff-girls.gif)
 
-<!--
-**pitroscki26/pitroscki26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✧ Me chamo Nicolly; 
 
-Here are some ideas to get you started:
+✧ Tenho 17 anos; 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✧ Estou no terceiro ano do ensino médio;
+
+✧ Gosto muito de exatas e adoro literatura;
+
+✧ Meu projeto de vida se baseia na área de engenharia.
+
+✧⋄⋆⋅⋆⋄✧⋄⋆⋅⋆⋄✧
